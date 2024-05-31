@@ -40,5 +40,5 @@ The Third Eye system comprises several smart wearable devices:
   - **Knee Modules**: Two modules placed near the knees to detect lower body obstacles.
 
 ## Project Winning Post
-https://www.linkedin.com/posts/activity-6518704613095510016-sdSr/?utm_source=share&utm_medium=member_desktop
+- https://www.linkedin.com/posts/activity-6518704613095510016-sdSr/?utm_source=share&utm_medium=member_desktop
 
